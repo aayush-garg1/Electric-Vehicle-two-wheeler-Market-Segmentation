@@ -15,3 +15,7 @@ Despite the growth potential, the market faces several challenges. Inadequate ch
 However, there are numerous opportunities in the Indian EV market. Technological advancements, especially in battery technology and range, promise to make EVs more practical and affordable. Rapid urbanization and increasing pollution levels in cities drive the demand for cleaner transportation solutions. Continued and enhanced government policy support and incentives, along with growing interest from investors and automotive companies in the EV sector, further bolster the market's potential.
 
 In conclusion, the electric vehicle market in India is poised for significant growth, particularly in the two-wheeler segment. Government policies, increasing environmental awareness, and technological advancements are key drivers. Addressing challenges such as infrastructure development, cost, and consumer awareness will be essential to unlock the full potential of the market.
+
+![image](https://github.com/aayush-garg1/Electric-Vehicle-two-wheeler-Market-Segmentation/assets/137367754/f6e52dc0-e199-479d-8b35-bae8d52d0a8c)
+Fig 1: Electric vehicle sales with respect to financial years.
+
